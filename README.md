@@ -1,1 +1,1 @@
-# AI-Food-Waste-Prevention
+# AI-Rotten-Fruit-Detection
