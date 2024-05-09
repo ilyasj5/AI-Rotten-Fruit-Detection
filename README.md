@@ -44,6 +44,7 @@ According to the EPA, food retail space and households wasted roughly 66 million
 
 ## Further Reading 📚
 * Feel free to view our code, report, and presentation in the repo to get a better understanding of our project!
+* Graphs for a more visual representation of our results are available there
 
 
 ## Authors ✍️
